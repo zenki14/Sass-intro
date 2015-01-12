@@ -1,0 +1,22 @@
+.box2 p {
+  color: #ffa600;
+  font-family: Impact;
+  font-size: 12px;
+  background-color: blue; }
+
+.box h2 {
+  color: #ffa600;
+  font-family: Impact;
+  font-size: 20px;
+  background-color: red; }
+
+.box {
+  background-color: lightgrey; }
+  .box p {
+    color: #ffa600;
+    font-family: Impact;
+    font-size: 12px;
+    background-color: white;
+    padding: 15px; }
+
+/*# sourceMappingURL=main.css.map */
